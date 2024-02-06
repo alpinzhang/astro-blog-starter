@@ -12,10 +12,8 @@
   "dependencies": {
     "@astrojs/check": "^0.4.1",
     "@astrojs/rss": "^4.0.4",
-    "@astrojs/vue": "^4.0.8",
     "@sentry/astro": "^7.99.0",
     "@spotlightjs/astro": "^1.0.14",
-    "astro": "^4.3.2",
-    "vue": "^3.4.15"
+    "astro": "^4.3.2"
   }
 }
