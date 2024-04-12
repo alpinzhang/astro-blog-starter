@@ -3,7 +3,7 @@ title: Markdown 示例
 published: 2023-10-01
 description: 一个使用 markdown 书写博客的简单示例.
 tags: [Markdown, Blogging, Demo]
-category: Examples
+category: 示例
 draft: false
 ---
 

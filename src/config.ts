@@ -9,10 +9,10 @@ import { LinkPreset } from './types/config'
 export const siteConfig: SiteConfig = {
   title: 'XPINE',
   subtitle: `Xpine's blog`,
-  lang: 'zh',
-  themeHue: 250,
+  lang: 'zh_cn',
+  themeHue: 160,
   banner: {
-    enable: true,
+    enable: false,
     src: 'assets/images/demo-banner.png',
   },
 }

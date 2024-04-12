@@ -1,5 +1,5 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 关于
+This is the demo site with astro
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
