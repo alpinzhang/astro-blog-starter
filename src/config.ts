@@ -53,6 +53,7 @@ export const profileConfig: ProfileConfig = {
   ],
 }
 
+// 暂时屏蔽
 export const licenseConfig: LicenseConfig = {
   enable: true,
   name: 'CC BY-NC-SA 4.0',
