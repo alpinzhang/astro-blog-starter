@@ -1,7 +1,7 @@
 ---
-title: astro-console-log
+title: 如何在 astro 文件中进行调试
 published: 2024-04-16
-description: "如何在 astro 文件中进行调试"
+description: 在 astro 开发中如何打印调试
 image: ""
 tags: ["astro"]
 category: "指南"
