@@ -21,3 +21,7 @@ category: Examples
 draft: false
 ---
 ```
+
+# 测试 cms 上的远程图片
+
+![icon](https://a.storyblok.com/f/274140/128x128/17226f2676/favicon-light-128.png)
